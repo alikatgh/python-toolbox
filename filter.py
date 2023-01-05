@@ -7,6 +7,15 @@ Convert `result` to a list and print out the list.
 
 """
 
+"""
+HINTS: 
+
+- The first argument to `filter()` should be the lambda function and the second argument is the list `fellowship`. Pass a string to `len()` to get the number of characters in the string.
+
+ - To convert the filter object to a list, use the `list()` function.
+
+"""
+
 # Use filter() to apply a lambda function over fellowship: result
 result = filter(lambda member: len(member) > 5, fellowship)
 
