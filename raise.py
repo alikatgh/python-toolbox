@@ -8,3 +8,9 @@ def raise_both(val1, val2):
 
 result = raise_both(2,2)
 print(result)
+
+# Unpack nums into num1, num2, and num3
+num1, num2, num3 = nums
+
+# Construct even_nums
+even_nums = (2, num2, num3)
