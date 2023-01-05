@@ -6,5 +6,5 @@ def raise_both(val1, val2):
     
     return new_tuple
 
-raise_both(2,2)
-print(raise_both)
+result = raise_both(2,2)
+print(result)
