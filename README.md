@@ -1,2 +1,2 @@
 # python-toolbox
-code snippets from DataCamp
+This is my learning curve of Python language
