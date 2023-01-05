@@ -1,3 +1,5 @@
+# Usage of global variables
+
 # Create a string: team
 team = "teen titans"
 
